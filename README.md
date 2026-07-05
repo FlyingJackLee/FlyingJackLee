@@ -2,7 +2,7 @@
 
 Full Stack Software Engineer focused on Java backend, cloud-native systems, and practical web applications.
 
-I work with Spring Cloud, Kubernetes, GitOps, distributed systems, and frontend applications. I also build side projects around inventory/cashier platforms, personal publishing tools, and AI-powered image recognition.
+5+ years experienced Full‑stack Developer skilled in Java, microservices and distributed architecture with well‑defined APIs. Built large‑scale SPA using Angular, and worked extensively with MySQL/PostgreSQL, Kubernetes, Docker, Kafka, Redis and Jenkins. Gained hands‑on experience in AI Agent development. Proficient at troubleshooting complex technical issues, leading team technical discussions and adopting new technologies to drive business optimization. Strong communicator with fluent English.
 
 ## About
 
