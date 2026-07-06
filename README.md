@@ -1,6 +1,6 @@
 # Hi, I'm Jack
 
-Full Stack Software Engineer focused on Java backend, cloud-native systems, and practical web applications.
+Full Stack Software Engineer focused on AI agent, web backend, cloud-native systems, and practical web applications.
 
 5+ years experienced Full‑stack Developer skilled in Java, microservices and distributed architecture with well‑defined APIs. Built large‑scale SPA using Angular, and worked extensively with MySQL/PostgreSQL, Kubernetes, Docker, Kafka, Redis and Jenkins. Gained hands‑on experience in AI Agent development. Proficient at troubleshooting complex technical issues, leading team technical discussions and adopting new technologies to drive business optimization. Strong communicator with fluent English.
 
